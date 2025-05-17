@@ -1,0 +1,116 @@
+[ {
+  "student_id" : 1,
+  "subject_id" : 1,
+  "gradle" : 4,
+  "teacher_id" : 1
+}, {
+  "student_id" : 1,
+  "subject_id" : 5,
+  "gradle" : 5,
+  "teacher_id" : 5
+}, {
+  "student_id" : 2,
+  "subject_id" : 2,
+  "gradle" : 3,
+  "teacher_id" : 2
+}, {
+  "student_id" : 2,
+  "subject_id" : 3,
+  "gradle" : 5,
+  "teacher_id" : 3
+}, {
+  "student_id" : 3,
+  "subject_id" : 6,
+  "gradle" : 3,
+  "teacher_id" : 6
+}, {
+  "student_id" : 3,
+  "subject_id" : 2,
+  "gradle" : 2,
+  "teacher_id" : 2
+}, {
+  "student_id" : 3,
+  "subject_id" : 3,
+  "gradle" : 5,
+  "teacher_id" : 3
+}, {
+  "student_id" : 4,
+  "subject_id" : 5,
+  "gradle" : 5,
+  "teacher_id" : 5
+}, {
+  "student_id" : 5,
+  "subject_id" : 1,
+  "gradle" : 4,
+  "teacher_id" : 1
+}, {
+  "student_id" : 5,
+  "subject_id" : 2,
+  "gradle" : 4,
+  "teacher_id" : 2
+}, {
+  "student_id" : 5,
+  "subject_id" : 3,
+  "gradle" : 3,
+  "teacher_id" : 3
+}, {
+  "student_id" : 6,
+  "subject_id" : 5,
+  "gradle" : 2,
+  "teacher_id" : 5
+}, {
+  "student_id" : 6,
+  "subject_id" : 6,
+  "gradle" : 5,
+  "teacher_id" : 6
+}, {
+  "student_id" : 7,
+  "subject_id" : 2,
+  "gradle" : 4,
+  "teacher_id" : 2
+}, {
+  "student_id" : 7,
+  "subject_id" : 1,
+  "gradle" : 2,
+  "teacher_id" : 1
+}, {
+  "student_id" : 8,
+  "subject_id" : 4,
+  "gradle" : 3,
+  "teacher_id" : 4
+}, {
+  "student_id" : 8,
+  "subject_id" : 5,
+  "gradle" : 5,
+  "teacher_id" : 5
+}, {
+  "student_id" : 8,
+  "subject_id" : 6,
+  "gradle" : 4,
+  "teacher_id" : 6
+}, {
+  "student_id" : 8,
+  "subject_id" : 1,
+  "gradle" : 4,
+  "teacher_id" : 1
+}, {
+  "student_id" : 9,
+  "subject_id" : 2,
+  "gradle" : 3,
+  "teacher_id" : 2
+}, {
+  "student_id" : 9,
+  "subject_id" : 3,
+  "gradle" : 2,
+  "teacher_id" : 3
+}, {
+  "student_id" : 10,
+  "subject_id" : 5,
+  "gradle" : 5,
+  "teacher_id" : 5
+}, {
+  "student_id" : 1,
+  "subject_id" : 3,
+  "gradle" : 5,
+  "teacher_id" : 3
+} ]
